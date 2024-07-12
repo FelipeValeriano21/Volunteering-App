@@ -1,0 +1,19 @@
+.LoginContent {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+     background-image: url(../../assets/wallpaper-react.jpg);
+    background-size: cover;
+    background-position: center;  
+    height: 100vh;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LabelResponse {
+    font-size: 13px;
+    top: 10px;
+  }
+
